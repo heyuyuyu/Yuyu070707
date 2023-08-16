@@ -1,4 +1,4 @@
-### Olá eu sou o Yuri Alexander ✌️
+## Olá eu sou o Yuri Alexander ✌️
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuyukiin/)
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@yurialex)
 
@@ -12,3 +12,5 @@
 </div><br/>
   
 Cursando ciência da computação 2/8 🖥️
+
+Eu sou o homem que vai se tornar o rei das programações! 👊🔥
